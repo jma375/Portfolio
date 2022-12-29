@@ -1,0 +1,3 @@
+[submodule "themes/portfolio-theme-shell"]
+	path = themes/portfolio-theme-shell
+	url = https://github.com/jma375/portfolio-theme-shell.git
