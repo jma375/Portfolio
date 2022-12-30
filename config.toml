@@ -1,4 +1,4 @@
-baseURL = 'http://jma375.github.io/portfolio-site/'
+baseURL = 'http://jma375.github.io/portfolio/'
 languageCode = 'en-us'
-title = 'Portfolio Site'
+title = 'Portfolio Static Site'
 theme = "portfolio-theme-shell"
